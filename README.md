@@ -1,1 +1,1 @@
-to run the project, simply click on this link to load the landing page --> proxy.framer.website
+to run the project, simply copy paste this link in your browser load the landing page --> proxy.framer.website
